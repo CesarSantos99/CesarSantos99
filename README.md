@@ -1,8 +1,8 @@
-Olá meu nome e César Santos tenho 23 anos.
+Olá meu nome e César Santos tenho 23 anos, sou um programador front-end.
 
-- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript.
+- 🌱 Atualmente estou aprendendo HTML, CSS, e iniciando no JavaScript e React.
 - 💬 Sobre mim: Tenho dois filhos, sou casado e estou em busca de oportunidades.
-- 📫 How to reach me: cesarsantossouza99@gmail.com
+- 📫 Email: cesarsantossouza99@gmail.com
 
 <div>
   <a href="https://github.com/CesarSantos99">
