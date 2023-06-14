@@ -2,9 +2,7 @@
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=081a72&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+César+Santos;Tenho+23+anos;Sou+um+Desenvolvedor+Front-End;E+Graduado+em+Analise+e+desenvolvimento+de+sistema;seja+bem+vindo!+:%29)](https://git.io/typing-svg)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CesarSantos99&bg_color=081a72&color=d1d1d1&line=168d9c&point=9b2727&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+César+Santos;Tenho+24+anos;Sou+um+Desenvolvedor+Front-End;E+Graduado+em+Analise+e+desenvolvimento+de+sistema;seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CesarSantos99&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=836FFF&bg_color=B0E0E6" alt="César Santos github stats" /> 
