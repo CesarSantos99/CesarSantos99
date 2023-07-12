@@ -1,6 +1,4 @@
 
-    
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=081a72&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+César+Santos;Tenho+24+anos;Sou+um+Desenvolvedor+Front-End;E+Graduado+em+Analise+e+desenvolvimento+de+sistema;seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
