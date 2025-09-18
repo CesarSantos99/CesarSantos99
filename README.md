@@ -17,8 +17,8 @@
 
 ## 🌐 Onde me encontrar?
 
-📫 **Email:** [cesarsantossouza99@gmail.com](mailto:cesarsantossouza99@gmail.com)  
-💼 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/cesarsantos99)  
+📫 **Email:** [Clique aqui](mailto:cesarsantossouza99@gmail.com)  
+💼 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/-cesar-santos/)  
 
 ---
 
