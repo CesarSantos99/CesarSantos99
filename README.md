@@ -1,7 +1,12 @@
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+César+Santos;Tenho+26+anos;Sou+um+Desenvolvedor+Front-End;E+Graduado+em+Analise+e+desenvolvimento+de+sistema;seja+bem+vindo!+:%29)](https://git.io/typing-svg)
- 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CesarSantos99&theme=transparent&icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CesarSantos99&theme=transparent&icons=true) 
+
+
  ### Principais skills:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
