@@ -47,44 +47,6 @@ Gosto de transformar ideias em projetos reais e estou constantemente praticando,
 
 ---
 
-
-## 📈 Atualmente estudando
-
-```text
-Front-end
-████████████████████░░ 90%
-
-JavaScript
-███████████████░░░░░░░ 75%
-
-React
-██████████░░░░░░░░░░░ 55%
-
-Node
-███████████░░░░░░░░░░░ 55%
-
-APIs
-██████████████░░░░░░░░ 70%
-
-Git/GitHub
-████████████████░░░░░░ 80%
-```
-
-Meu objetivo é continuar evoluindo como desenvolvedor, construindo projetos cada vez mais completos e adquirindo experiência profissional em desenvolvimento web.
-
----
-
-## 💼 O que estou buscando
-
-Estou aberto a oportunidades como:
-
-**Desenvolvedor Front-end**
-**Desenvolvedor Web**
-**Desenvolvedor Back-end**
-**Freelancer Front-end**
-
----
-
 ## 📫 Entre em contato
 
 <div align="left">
