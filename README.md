@@ -36,6 +36,7 @@ Gosto de transformar ideias em projetos reais e estou constantemente praticando,
 * CSS3
 * JavaScript
 * React
+* Node
 * Responsividade
 * Flexbox
 * CSS Grid
@@ -57,7 +58,7 @@ JavaScript
 ███████████████░░░░░░░ 75%
 
 React
-███████████░░░░░░░░░░░ 55%
+██████████░░░░░░░░░░░ 55%
 
 Node
 ███████████░░░░░░░░░░░ 55%
