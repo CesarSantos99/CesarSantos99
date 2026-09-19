@@ -1,34 +1,111 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+César+Santos;Tenho+26+anos;Sou+um+Desenvolvedor+Front-End;E+Graduado+em+Analise+e+desenvolvimento+de+sistema;seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+César+Santos;Tenho+27+anos;Sou+um+Desenvolvedor+Front-End;E+Graduado+em+Analise+e+desenvolvimento+de+sistema;seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
+# 👋 Olá, eu sou César Santos!
 
+### 💻 Desenvolvedor Front-end  | Web Developer
 
+Sou formado em **Análise e Desenvolvimento de Sistemas** e venho construindo minha carreira no desenvolvimento web, com foco em criar interfaces **responsivas, funcionais e intuitivas**.
 
- ### Principais skills:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+Gosto de transformar ideias em projetos reais e estou constantemente praticando, estudando novas tecnologias e aprimorando minhas habilidades através de projetos e desafios.
 
+---
 
-### Estudando neste momento:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+## 🚀 Sobre mim
 
+* 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
+* 💻 Foco em **Desenvolvimento Front-end e back-end**
+* 🌎 Disponível para oportunidades
+* 🧩 Experiência prática através de projetos próprios e freelas
+* 📚 Atualmente aprimorando meus conhecimentos em desenvolvimento web
+* 🤖 Também tenho interesse em **Inteligência Artificial e automação**
+* 🛠️ Gosto de transformar problemas em soluções simples e funcionais
 
-## 🌐 Onde me encontrar?
+---
 
-📫 **Email:** [Clique aqui](mailto:cesarsantossouza99@gmail.com)  
-💼 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/-cesar-santos/)  
+## 🧠 Tecnologias e ferramentas
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+
+</div>
+
+### Principais conhecimentos
+
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Responsividade
+* Flexbox
+* CSS Grid
+* APIs
+* Git
+* GitHub
+* VS Code
 
 ---
 
 
+## 📈 Atualmente estudando
 
-<!-- Rodapé com onda -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+```text
+Front-end
+████████████████████░░ 90%
 
+JavaScript
+███████████████░░░░░░░ 75%
 
+React
+███████████░░░░░░░░░░░ 55%
 
+Node
+███████████░░░░░░░░░░░ 55%
+
+APIs
+██████████████░░░░░░░░ 70%
+
+Git/GitHub
+████████████████░░░░░░ 80%
+```
+
+Meu objetivo é continuar evoluindo como desenvolvedor, construindo projetos cada vez mais completos e adquirindo experiência profissional em desenvolvimento web.
+
+---
+
+## 💼 O que estou buscando
+
+Estou aberto a oportunidades como:
+
+**Desenvolvedor Front-end**
+**Desenvolvedor Web**
+**Desenvolvedor Back-end**
+**Freelancer Front-end**
+
+---
+
+## 📫 Entre em contato
+
+<div align="left">
+
+<a href="mailto:devcesarsantos@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/-cesar-santos/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/CesarSantos99" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Projetos-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### 🚀 "Transformando ideias em interfaces e problemas em soluções."
+
+Obrigado pela visita ao meu perfil! 👋
